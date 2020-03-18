@@ -1,5 +1,5 @@
 # Hello, Welcome to my portfolio
-# Please click on th following link to access it:
+# Please click on the following link to access it:
 https://sayaliwalke30.github.io/
 
 
